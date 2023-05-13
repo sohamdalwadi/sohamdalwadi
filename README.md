@@ -1,52 +1,60 @@
-# Hello, I'm Soham Dalwadi 👋
+# Soham Dalwadi
 
-## About Me
-I'm a passionate C++ engineer with 8+ years of experience in software development. I love solving complex problems and building efficient and scalable applications. My areas of expertise include algorithms, data structures, and object-oriented programming.
+## Senior Software Engineer | Automobile Domain
 
-## Skills
-- **Languages:** C++, Python, Java
-- **Frameworks and Libraries:** STL, Boost, Qt, OpenCV
-- **Tools:** Git, CMake, Visual Studio, Eclipse
-- **Operating Systems:** Windows, Linux
+📧 Email: soham.dalwadi@yahoo.com &nbsp;&nbsp; 💼 LinkedIn: [Soham Dalwadi](www.linkedin.com/in/sohamdalwadi)
 
-## Projects
-- [Project 1](link-to-project-1): A description of the project and your role.
-- [Project 2](link-to-project-2): A description of the project and your role.
-- [Project 3](link-to-project-3): A description of the project and your role.
+Experienced software engineer with a passion for developing innovative solutions in the automotive domain. Skilled in C++, C#, Python, and Java. Currently working as a Senior Software Engineer at Cerence Inc., specializing in in-car AI and voice-enabled solutions.
+
+## Skills and Competencies
+
+- Expertise in:
+  - C++ programming
+  - C#
+  - Python
+  - Java
+
+- Proficient in using:
+  - HMI tools such as QT
+  - Software like Visual Studio
+  - Android Studio
+  - Populous
+
+- Hands-on experience with tracking tools like:
+  - Jira
+  - Confluence
+
+- Version Control:
+  - Git
+  - SVN
+  - Bitbucket
+
+- Strong problem-solving abilities and experience troubleshooting complex issues
+- Excellent communication skills and ability to work effectively in a team environment
+- Proven ability in project management, including planning and executing projects from start to finish
+- Experience with agile processes
+
+## Experience
+
+### Cerence Inc. | Senior Software Engineer | June 2021 - Present
+
+- Contributed to the development of the CDFW (Automotive Grade Embedded Platform) to enable state-of-the-art automotive assistants.
+- Worked on the CSDK (DIY SDK Offering) to provide developers with the tools and resources they need to build their own voice-enabled applications.
+
+### KPIT | Software Engineer | February 2015 - June 2021
+
+- Led the design and development of HMI Infotainment systems for prominent automotive projects.
+- Implemented cutting-edge features such as Voice Recognition, Bluetooth, User Profile modules, and more.
+- Played a key role in reverse engineering, defect triage, and fixing to enhance the quality and performance of software solutions.
 
 ## Education
-- Bachelor's Degree in Computer Science, [University Name], [Year]
-- Online Courses and Certifications: [Course 1](link-to-course-1), [Course 2](link-to-course-2)
 
-## Work Experience
-- Software Engineer at [Company Name], [Year] - [Year]
-  - Description of your role and responsibilities.
-- Intern at [Company Name], [Year]
-  - Description of your role and responsibilities.
+- Bachelor's Degree in Electronics and Communication | Gujarat Technological University
+- Diploma in Electronics and Communication | Gujarat Technological University
+- High School | Fatima Convent High School
 
-## Open Source Contributions
-- [Contribution 1](link-to-contribution-1): Description of the contribution and its impact.
-- [Contribution 2](link-to-contribution-2): Description of the contribution and its impact.
+## Languages
 
-## Contact Me
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Personal Website: [Your Website](link-to-personal-website)
-
-Feel free to reach out if you have any questions or would like to collaborate on a project!
-
-
-<!--
-**sohamdalwadi/sohamdalwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- English: Full Professional Proficiency
+- Hindi: Native or Bilingual Proficiency
+- Gujarati: Native or Bilingual Proficiency
