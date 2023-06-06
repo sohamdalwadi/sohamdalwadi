@@ -43,7 +43,7 @@
 <h2> Connect with me </h2>
 <p align="left">
 <a href="https://twitter.com/sohamdalwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamdalwadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sohamdalwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sohamdalwadikant-24a938202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sohamdalwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sohamdalwadi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/879051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="879051" height="30" width="40" /></a>
 <a href="https://fb.com/sohamdalwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohamdalwadi" height="30" width="40" /></a>
 <a href="https://instagram.com/sohamdalwadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kum_lax.23" height="30" width="40" /></a>
