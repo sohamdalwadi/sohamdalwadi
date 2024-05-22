@@ -7,7 +7,7 @@ _**LATEST UPDATE:**_ _Exploring C++23 and GUI with QT Framework_ 🥽.
 - 👦 C++ Developer Expert @Infotainment
 - 💼 Sr. software engineer [@Cerence](https://www.cerence.com/)
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 👨‍💻 I develop Car infotainment GUI, Framework for Voice AI and develop Backend for infotainment modules like Voice recognition, Radio, Media, and Connectivity (Android Auto, Car Play, Baidu).
+- 👨‍💻 Contributed in Car infotainment GUI, Framework for Voice AI and develop Backend for infotainment modules like Voice recognition, Radio, Media, and Connectivity (Android Auto, Car Play, Baidu).
 - Loves 🎵 and Games.
 - Proud 🇮🇳.
 
